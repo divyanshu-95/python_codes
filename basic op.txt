@@ -1,0 +1,12 @@
+arithmetic operator=+-*/%
+assign= =
+uranory=assign simple opp sign
+relational= < >  == >= <= !=
+logical= and or not
+bitwise(works by binary)=complement(~),and(&),or(|),xor(^),
+	leftshift(<<),right shift(>>)
+
+	~12=-13
+
+
+sys module**argv accept multiple values even if it is not as an input
